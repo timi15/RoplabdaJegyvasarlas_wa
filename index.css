@@ -1,0 +1,49 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(210, 188, 236);
+    font-size: 19px;
+    
+}
+
+div{
+  margin: 10px;
+    
+}
+
+table{
+    max-width: 70%;
+    text-align: center;
+    margin: auto;
+}
+nav{
+    background: linear-gradient(135DEG, rgba(255,255,255,0.1), RGBA(255,255,255,0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10PX);
+    border-radius: 20px;
+    border: 1px solid RGBA(255,255,255,0.18);
+    box-shadow: 0 8px 32px 0 RGBA(0,0,0,0.37);
+
+    
+}
+
+h1,h2,h3{
+    margin-top: 25px;
+    text-align: center;
+}
+
+#div2{
+    margin-top: 85px;
+}
+
+
+img{
+    border: 3px dotted black;
+}
+
+#ide{
+    font-size: 35px;
+    color: red;
+    font-weight: bold;
+}
+
+
